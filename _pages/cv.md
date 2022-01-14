@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please check my CV [here](https://academicpages.github.io/markdown/)
+Please check my CV [here](https://github.com/haoyueyang/haoyueyang.github.io/tree/master/files/HaoyueYang_CV.pdf)
