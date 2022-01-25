@@ -13,7 +13,7 @@ I regard driving as a great way of relaxing. In China, I have travelled 22 provi
 I drove from Los Angeles to San Francisco, Phoenix, Yellowstone, Denver, Chicago, etc. My longest road trip was around 3000 miles, 
 from Los Angeles to Ithaca by myself. This experience became one of the most unforgettable memories in my life. 
 
-These are some rewards I received.
+These are some awards I received.
 
 ## Electronic Piano
 
