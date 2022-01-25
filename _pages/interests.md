@@ -12,3 +12,19 @@ Influenced by my parents, I am also very passionate about road trip because I en
 I regard driving as a great way of relaxing. In China, I have travelled 22 provinces with my parents by car. In the United States, 
 I drove from Los Angeles to San Francisco, Phoenix, Yellowstone, Denver, Chicago, etc. My longest road trip was around 3000 miles, 
 from Los Angeles to Ithaca by myself. This experience became one of the most unforgettable memories in my life. 
+
+These are some rewards I received:
+
+## Electronic Piano
+
+Level 9 (The highest level of amateur electronic piano players in China)
+
+## Chinese Calligraphy
+
+ First Prize, National Teenager Calligraphy Contest, Chinese Ministry of Education, China
+ 
+## Writing
+
+First Prize, 14th Chinese Newspaper National Writing Competition, China Association of Newspapers
+
+
