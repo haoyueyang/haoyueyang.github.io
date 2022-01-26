@@ -1,5 +1,5 @@
 ---
-permalink: /community service/
+permalink: /community_service/
 title: "Community Service"
 ---
 
