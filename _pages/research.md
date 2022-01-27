@@ -8,6 +8,8 @@ author_profile: true
 My research interests fall into two main areas: applying machine learning and statistical learning methods to solve problems concerning social good and financial optimization, and developing improvements of machine learning methodology for certain problems, such as highly correlated features and imbalanced classification. 
 My current research focuses on the application and modification on random forests. My next step is to learn more about reinforcement learning and online learning, and further explore the solution of fairness, healthcare, and environmental problems by applying novel methods.
 
+Some projects that I am currently working on are shown below.
+
 ## Data-Efficient Random Forest with Feature Space Sampling
 
 Traditional random forest applies the "bagging" idea to form the forest by drawing random sub-samples of original dataset with replacement. 
