@@ -14,12 +14,12 @@ discussed their troubles with me and sought my suggestions, and I found happines
     - Examined and graded students’ homework in applying machine learning in city and regional planning.
     
 ## UniStudy USA
-[Webiste](https://unistudyusa.com/) <br />
+[Website](https://unistudyusa.com/) <br />
     - Teach private mathematical, statistical and econometrics lessons to groups of 1-3 undergraduate students. <br />
     - Help review course materials, solve problems in students' homework, and prepare for midterms and finals. 
 
 ## Save Our Youth
-[Webiste](http://save-our-youth.org/) <br />
+[Website](http://save-our-youth.org/) <br />
     - Volunteered to teach 2.5-hour Math lessons every week to middle school and high school students in a non-profit organization, whose mission is to provide academic and social support for low-income youth. <br />
     - Made study plans for students and helped with their homework; answered questions related to AP Calculus, algebra, pre-calculus, etc. 
 
