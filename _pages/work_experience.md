@@ -4,9 +4,9 @@ title: "Work Experience"
 ---
 
 ## Just the Berries PD Corporation
-_Executive Assistant to CEO/Chairman_
+_Executive Assistant to CEO/Chairman_ <br />
 [Just Berries PD Corporation](https://www.visionsmartcenter.com/) and [Vision Smart Center](https://www.visionsmartcenter.com/), Los Angeles, CA
 
 ## Sky Vision Insurance 
-_Financial Service Representative_
+_Financial Service Representative_ <br />
 San Marino, CA
