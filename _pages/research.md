@@ -10,7 +10,14 @@ My current research focuses on the application and modification on random forest
 
 ## Data-Efficient Random Forest with Feature Space Sampling
 
+Traditional random forest applies the "bagging" idea to form the forest by drawing random sub-samples of original dataset with replacement. 
+Compared with random sampling, drawing by low discrepency sequences provides a faster convergence rate and more uniformly distributed subsamples. 
+In this project, we focus on the sampling stage of random forest. By applying bisection sorting, we perform a transformation between 
+the original feature space and a Quasi-Monte Carlo cube. Quasi-Monte Carlo method is then applied to draw uniform subsamples for random forest.
+We have proven that Quasi-Monte Carlo sampling performs better than random sampling on binary classification problems with 7 features. 
+Currently more experiments are practiced.
 
+For our next possible project along this direction, we are interested in applying Quasi-Monte Carlo methods on data augmentation for minority class in imbalanced classificaiton problems.
 
 ## Maximizing Portfolio Predictability with Machine Learning
 
